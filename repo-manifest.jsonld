@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/flake8-async/commit/c695f61dd9e237375c197f20f3a3eb41885b4eca",
       "git:hexsha": "c695f61dd9e237375c197f20f3a3eb41885b4eca",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "26.8.1"
     },
     {
