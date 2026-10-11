@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "flake8-async",
+  "versions": [
+    {
+      "commit": "c695f61dd9e237375c197f20f3a3eb41885b4eca",
+      "tag": "26.8.1",
+      "parsed_at": "2026-10-11T01:17:46.740165+00:00"
+    }
+  ]
+}
